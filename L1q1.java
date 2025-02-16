@@ -17,7 +17,7 @@ public class L1q1 {
                 salary = 40 * hourlyRate + (hoursWorked - 40) * hourlyRate * 1.5;
             }
 
-            System.out.println("Total Salary: $" + salary);
+            System.out.println("Total Salary: $ " + salary);
 
         }
     }
