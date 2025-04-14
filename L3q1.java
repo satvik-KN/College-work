@@ -46,5 +46,6 @@ public class L3q1 {
         student.assign();
         student.compute();
         student.display();
+
     }
 }
