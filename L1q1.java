@@ -8,7 +8,6 @@ public class L1q1 {
 
             System.out.print("Enter hourly rate: ");
             double hourlyRate = scanner.nextDouble();
-
             double salary;
 
             if (hoursWorked <= 40) {
